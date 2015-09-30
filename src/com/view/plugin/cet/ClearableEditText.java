@@ -55,7 +55,7 @@ public class ClearableEditText extends EditText
 	// --------------$$$$$$$$$$$$$$$4---------------
 
 	@SuppressLint("ClickableViewAccessibility")
-	private void initView(final Context context) {
+	protected void initView(final Context context) {
 		clearIcon = ResourcesCompat.getDrawable(getResources(), android.R.drawable.presence_offline, null);
 		clearIcon.setBounds(0, 0, clearIcon.getIntrinsicWidth(), clearIcon.getIntrinsicHeight());
 		this.setOnTouchListener(this);
