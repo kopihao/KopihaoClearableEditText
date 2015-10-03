@@ -90,6 +90,8 @@ public class YetAnotherCET extends ClearableEditText {
 
 _None! Beauty of it? Purely Native._  
 
+## Live Demo 
+<iframe src="https://appetize.io/embed/94jcdbmxawkdxjpw43nnt3j10w?device=iphone5s&amp;scale=50&amp;autoplay=false&amp;orientation=portrait&amp;deviceColor=black" width="378px" height="800px" frameborder="0" scrolling="no"></iframe>
  
 
 ## License  
