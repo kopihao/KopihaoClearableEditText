@@ -11,20 +11,28 @@
         android:layout_weight="1"
         android:orientation="vertical" >
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:padding="5dp"
+            android:text="@string/app_name" />
+
         <com.view.plugin.cet.ClearableEditText
             android:id="@+id/cetInput"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_margin="5dp"
             android:background="@android:color/white"
             android:gravity="center_vertical|start"
             android:hint="@string/txt_content"
             android:padding="5dp"
-            android:text="@string/app_name"
             android:textSize="20sp" />
 
         <com.view.plugin.cet.YetAnotherCET
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_margin="5dp"
             android:background="@android:color/white"
             android:gravity="center_vertical|start"
             android:hint="@string/txt_content"
