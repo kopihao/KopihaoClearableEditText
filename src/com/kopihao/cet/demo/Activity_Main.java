@@ -12,9 +12,9 @@ import android.widget.Toast;
 /**
  * This project demo an EditText which able to clear text with its icon<br>
  * This UI component is absolutely inherited from native EditText.<br>
- * This UI component extend capability and source code from :<br>
+ * This UI component extend capabilities and source code from :<br>
  * [KopihaoActiconEditText](https://github.com/kopihao/KopihaoActiconEditText)
- *
+// *
  * <u>Why use this</u><br>
  * Custom UI component as a View rather than a View Group<br>
  * Inherit from EditText<br>
