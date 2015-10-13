@@ -12,13 +12,8 @@ import android.widget.Toast;
 /**
  * This project demo an EditText which able to clear text with its icon<br>
  * This UI component is absolutely inherited from native EditText.<br>
- * When this UI component is needed, my first thought is<br>
- * A ViewGroup which contain EditText + ImageView.<br>
- * Afterward, I abandoned the idea and ask myself why not EditText?<br>
- * Few snippet online, inspired and helped me to build this UI component. <br>
- * Thanks to all those great Custom UI pioneer out here.<br>
- * In the end, here is my version.<br>
- * Hope you enjoy.<br>
+ * This UI component extend capability and source code from :<br>
+ * [KopihaoActiconEditText](https://github.com/kopihao/KopihaoActiconEditText)
  *
  * <u>Why use this</u><br>
  * Custom UI component as a View rather than a View Group<br>
