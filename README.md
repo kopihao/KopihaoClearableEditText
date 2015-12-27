@@ -92,7 +92,7 @@ _None! Beauty of it? Purely Native._
 
 ## Preview
 
-![Preview1](https://lh3.googleusercontent.com/-1UeKVteCsPw/VhAVEBPnmlI/AAAAAAAACf8/nKTBYBK6I10/s512-Ic42/live_cet.png)
+![Preview1](assets/preview/preview.jpeg)
 
 [Live Demo](https://appetize.io/app/xv42bnqv0q5r7n3z511wbajrdm?device=nexus5&scale=75&orientation=portrait)
 
