@@ -83,7 +83,7 @@ public class Activity_Main extends Activity {
 			@Override
 			public void onClick(DialogInterface dialog, int whichButton) {
 				String value = input.getText().toString();
-				Log.wtf("Jasper", "ClearableEditText,input::" + value);
+				Log.wtf("Kopihao", "ClearableEditText,input::" + value);
 				return;
 			}
 		});

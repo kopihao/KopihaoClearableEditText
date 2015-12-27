@@ -92,7 +92,7 @@ _None! Beauty of it? Purely Native._
 
 ## Preview
 
-![Preview1](assets/preview/preview.jpeg =200)
+<img src="assets/preview/preview.jpeg" alt="Preview1" width="200"/>
 
 [Live Demo](https://appetize.io/app/xv42bnqv0q5r7n3z511wbajrdm?device=nexus5&scale=75&orientation=portrait)
 
