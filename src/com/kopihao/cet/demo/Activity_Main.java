@@ -45,7 +45,12 @@ public class Activity_Main extends Activity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
+		demo();
+	}
+
+	protected void demo() {
 		setContentView(R.layout.ac_main);
+
 		cetInput = (ClearableEditText) findViewById(R.id.cetInput);
 		ivIcon1 = (ImageView) findViewById(R.id.ivIcon1);
 		ivIcon2 = (ImageView) findViewById(R.id.ivIcon2);
@@ -60,7 +65,6 @@ public class Activity_Main extends Activity {
 		String text = "1st, 2nd, 3rd button will change CET icon on main layout.\n";
 		text += "4th Button will pop alert dialog which contain CET.";
 		Toast.makeText(this, text, Toast.LENGTH_LONG).show();
-
 	}
 
 	private AlertDialog CETDialog(int resid) {
